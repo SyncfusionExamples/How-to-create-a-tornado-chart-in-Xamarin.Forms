@@ -12,12 +12,12 @@ You can achieve the tornado chart using the [bar charts](https://help.syncfusion
 
 # See also
 
-[What are the different types of axis in Charts](https://help.syncfusion.com/xamarin/charts/axis)
+[What are the different types of axis in Xamarin.Forms Charts](https://help.syncfusion.com/xamarin/charts/axis)
 
-[How to add multiple series in SfChart](https://help.syncfusion.com/xamarin/charts/chartseries#multiple-series)
+[How to add multiple series in Xamarin.Forms Chart](https://help.syncfusion.com/xamarin/charts/chartseries#multiple-series)
 
 [How to show the provided information of the data points to user](https://help.syncfusion.com/xamarin/charts/datamarker)
 
-[How to add the annotations in SfChart](https://help.syncfusion.com/xamarin/charts/chartannotation)
+[How to add the annotations in Xamarin.Forms Chart](https://help.syncfusion.com/xamarin/charts/chartannotation)
 
 
