@@ -1,9 +1,9 @@
-# How-to-create-a-tornado-chart-in-Xamarin.Forms-
-This article explains how to create a tornado chart in Xamarin.Forms by using the existing chart types in Syncfusion Xamarin.Forms Charts.
+# How to create Tornado Chart in Xamarin.Forms
+This article explains how to create a tornado chart in Xamarin.Forms by using the existing chart types in Syncfusion [Xamarin.Forms Charts](https://help.syncfusion.com/xamarin/charts/getting-started).
 
 The tornado chart is a special type of bar chart. In tornado chart, the bars can be extended from the defined baseline and which is also used to compare data among different types of data or categories, the bars in the tornado chart are horizontal and this chart is basically used to show the impact such as how a condition will impact the result on the outcome.
 
-You can achieve the tornado chart using the bar charts as like in below code snippet
+You can achieve the tornado chart using the [bar charts](https://help.syncfusion.com/xamarin/charts/charttypes#bar-chart) as like in below code snippet
 
 [XAML]
 ```
@@ -32,7 +32,7 @@ void SecondaryAxis_LabelCreated (object sender, ChartAxisLabelEventArgs e)
 ```
 # Output
  
-![](output.png)
+![](xamarin.forms-tornado-chart.png)
 
 
 # See also
