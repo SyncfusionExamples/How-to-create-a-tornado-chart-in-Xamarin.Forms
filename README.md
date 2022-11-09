@@ -31,11 +31,13 @@ void SecondaryAxis_LabelCreated (object sender, ChartAxisLabelEventArgs e)
 }
 ```
 
-# Output
+### Output
  
 ![Tornado Chart in Xamarin.Forms](xamarin.forms-tornado-chart.png)
 
-# See also
+KB article - [How to create a Tornado Chart in Xamarin.Forms](https://www.syncfusion.com/kb/10684/how-to-create-a-tornado-chart-in-xamarin-forms)
+
+### See also
 
 [What are the different types of axis in Xamarin.Forms Charts](https://help.syncfusion.com/xamarin/charts/axis)
 
